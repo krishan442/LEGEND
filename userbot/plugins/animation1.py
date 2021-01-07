@@ -69,7 +69,7 @@ async def _(event):
     event = await edit_or_reply(event, "Calling Pavel Durov (ceo of telegram)......")
     animation_chars = [
         "`Connecting To Telegram Headquarters...`",
-        "`Call Connected to @Kkchoudhary3108.`",
+        "`Call Connected to Kkchoudhary3108.`",
         "`Telegram: Hello This is Telegram HQ. Who is this?`",
         f"`Me: Yo this is` {DEFAULTUSER} ,`Please Connect me to my lil bro, Pavel Durov `",
         "`User Authorised.`",
